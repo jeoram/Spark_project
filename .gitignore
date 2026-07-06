@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+/dist
+/build
+/.venv
+venv/
+ENV/
+env/
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+
+# Test and coverage
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+*.parquet
+
+# Local files
+list_top.txt
+list_all.txt
